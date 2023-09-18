@@ -1,3 +1,20 @@
-# 🚀 Web Systems and Technologies Activity
+# 🚀Title
 
-I'm a full stack developer...
+## 📄 Description
+
+## Activities
+
+- Activity #1 (HTML Tags)
+- Activity #2 (Link Pages)
+
+## Members
+
+- 🤵 Juan Dela Cruz
+- 🤵 Pepito Manaloto
+- 🤵 Ben & Ben
+
+## Acknowledgment
+
+## Screenshots
+
+[Click me](https://google.com)
