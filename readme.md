@@ -1,0 +1,3 @@
+# 🚀 Web Systems and Technologies Activity
+
+I'm a full stack developer...
