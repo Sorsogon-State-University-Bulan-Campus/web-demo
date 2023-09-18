@@ -2,23 +2,18 @@
 <img src="ssulogo-512.png" width="200" height="200">
 </p>
 
-# 🚀Title
+# 🚀 Title
 
-## 📄 Description
+## Description
 
 ## Activities
 
-- Activity #1 (HTML Tags)
-- Activity #2 (Link Pages)
+## 🤘 Members
 
-## Members
+- Juan Dela Cruz
+Follow me on [facebook](https://facebook.com)
+- Ben and Ben
 
-- 🤵 Juan Dela Cruz
-- 🤵 Pepito Manaloto
-- 🤵 Ben & Ben
+## Acknowledgement
 
-## Acknowledgment
-
-## Screenshots
-
-[Click me](https://google.com)
+![Alt Text](https://www.animatedimages.org/data/media/1243/animated-happy-birthday-image-0081.gif)
