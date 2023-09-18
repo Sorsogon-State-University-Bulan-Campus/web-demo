@@ -1,4 +1,6 @@
-<img src="ssulogo-512.png">
+<p align="center">
+<img src="ssulogo-512.png" width="200" height="200">
+</p>
 
 # 🚀Title
 
